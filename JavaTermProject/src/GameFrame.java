@@ -4,7 +4,6 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
-// already pushed to master branch 2022.05.05 
 public class GameFrame extends JFrame {
 	int f_pos_x; // frame position
 	int f_pos_y;
